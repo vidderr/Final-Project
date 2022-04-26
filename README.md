@@ -1,4 +1,10 @@
 # Final-Project
+# Explanation - The main difficulty for me came when I tried installing pygame. I spent most of my time studying and learning how to use pygame but when I went to use it non of the functions would work. I then checked the dict to see what my options were and nothing showed up. Somehow my pygame that I downloaded had none of the commands and functions that pygame was supposed to have. This led to me just swithcing to using turtles last minute which is also why I turned it in late. Besides the pygame troubles I truly enjoyed writing the code for the game and figuring out different ways that could add more elements to the game, like trying to figure out how to have the player shoot the guy and if he was late to shooting him he missed.
+
+# Link - https://youtu.be/pkrCb1Uro2c
+
+
+# Code
 import random
 import time
 import pygame
